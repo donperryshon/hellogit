@@ -6,7 +6,7 @@ int main ()
 {
 
 vector <char> vcomp;
-vector <int> v2 = {10,14.32,64,16};
+vector <int> v2 = {10,14,32,64,16};
 
 vcomp.push_back('p');
 v2.pop_back();
