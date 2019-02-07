@@ -22,7 +22,7 @@ for (int i= 0; i < v2.size(); i++)
 cout << v2[i] << "";
 
 for (auto v:v2)
-cout << y << "";
+cout << v << "";
 }
 
 }
