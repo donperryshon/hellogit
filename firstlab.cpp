@@ -19,10 +19,10 @@ for (int i=0; i < 4; i++)
 }
 
 for (int i= 0; i < v2.size(); i++)
-cout << v << "";
+cout << v2[i] << "";
 
-auto i = 0;
-auto x = 0u;
-auto ch = 'a';
-auto v3 = v2;
+for (auto v:v2)
+cout << y << "";
+}
+
 }
