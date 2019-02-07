@@ -1,5 +1,5 @@
-include <vector>
-using namespace sts;
+#include <vector>
+using namespace std;
 int main ()
 {
 
